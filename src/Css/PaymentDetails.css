@@ -1,0 +1,15 @@
+.payment_main {
+  background-color: #00b894;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+.payment_main h1 {
+  margin-bottom: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-bottom: 2px solid red;
+}

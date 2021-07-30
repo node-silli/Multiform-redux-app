@@ -1,0 +1,34 @@
+.result_main {
+  width: 100%;
+  height: 100vh;
+  background-color: #fc427b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.result_details {
+  width: 80%;
+  height: 80vh;
+  background-color: aquamarine;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.detail_columns {
+  border-bottom: 2px solid grey;
+  width: 80%;
+}
+.result_details h2 {
+  border-bottom: 2px solid rgb(68, 68, 151);
+}
+.result_main p {
+  font-size: 1.5rem;
+
+  text-indent: 10px;
+}
+.extp {
+  font-family: cursive;
+  text-indent: 5px;
+}
